@@ -42,9 +42,6 @@
 
 ---
 
-## 🧠 Coding & Competitive Programming Stats
-
----
 
 ## 🧠 Coding & Competitive Programming Stats
 
