@@ -45,10 +45,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saurabhiiitm062&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhiiitm062&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saurabhiiitm062&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
+
+<!-- Language Usage -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saurabhiiitm062&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="170"/>
 
 </div>
+
 
 ---
 
