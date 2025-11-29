@@ -18,7 +18,6 @@
 🔹 Strong in **DSA, Web Architecture, DB Design & Performance Optimization**  
 🔹 I enjoy building production-ready systems that scale under real load 🚀  
 
-📫 Email — **deepsaurabh4362@gmail.com**
 
 ---
 
