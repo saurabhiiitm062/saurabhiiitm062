@@ -84,7 +84,7 @@
 
 <p align="left">
 
-<a href="mailto:deepsaurabh4362@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+
 <a href="https://github.com/saurabhiiitm062"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
 <a href="https://www.linkedin.com/in/saurabh6243/"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
 
