@@ -59,8 +59,11 @@
 ### ⚡ Codeforces Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/akxcode/CodeForcesStatsCard/dev/card.svg?username=saurabh4362&theme=radical" width="400"/>
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=saurabh4362&theme=tokyonight" width="400"/>
+
 </div>
+
 
 🔗 Profile: https://codeforces.com/profile/saurabh4362  
 ✔ Shows rating + max rating + contests + graph  
