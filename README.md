@@ -24,7 +24,7 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages  
-<img src="https://skillicons.dev/icons?i=javascript,cpp,python,sql,java,c,go" height="45"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,python,java,c,go" height="45"/>
 
 ### ⚙ Backend Development  
 <img src="https://skillicons.dev/icons?i=nodejs,express" height="45"/>
