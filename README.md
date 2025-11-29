@@ -40,8 +40,9 @@
 
 ---
 
+---
 
-## 🧠 Coding Stats
+## 🧠 Coding & Competitive Programming Stats
 
 ### 💡 LeetCode
 <div align="center">
@@ -50,20 +51,24 @@
 
 ---
 
-### ⚡ Codeforces
+### ⚡ Codeforces Full Profile
 <div align="center">
-  <img src="https://cf.leed.at/?handle=saurabh4362&theme=tokyonight" width="430"/>
+  <a href="https://codeforces.com/profile/saurabh4362">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=saurabh4362&theme=tokyonight" width="440">
+  </a>
 </div>
 
 ---
 
 ### 📊 Codeforces Rating Progress
 <div align="center">
-  <img src="https://cf.leed.at/graph?handle=saurabh4362&theme=tokyonight" width="500"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/contest-history?username=saurabh4362&theme=tokyonight" width="520">
 </div>
 
-🔗 Profile → https://codeforces.com/profile/saurabh4362  
+🔗 Profile → https://codeforces.com/profile/saurabh4362
+
 ---
+
 
 
 
