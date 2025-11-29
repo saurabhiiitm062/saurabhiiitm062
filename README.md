@@ -41,6 +41,36 @@
 
 ---
 
+---
+
+## 🧠 Coding & Competitive Programming Stats
+
+### 💡 LeetCode Stats
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/saurabh4362?ext=heatmap&theme=radical" width="400" />
+</div>
+
+✔ Auto-updating — shows streak, heatmap, badges  
+✔ Displays total solved, acceptance %, ranking, progress
+
+---
+
+### ⚡ Codeforces Stats
+
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/akxcode/CodeForcesStatsCard/dev/card.svg?username=saurabh4362&theme=radical" width="400"/>
+
+</div>
+
+✔ Automatically pulls rating, max rating, problems solved  
+✔ Shows contest progress visually
+
+---
+
+
+
 ## 📈 GitHub Analytics
 
 <div align="center">
