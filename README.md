@@ -97,13 +97,7 @@
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/saurabhiiitm062/saurabhiiitm062/output/github-contribution-grid-snake-dark.svg" width="800"/>
-</div>
-
----
 
 
 ## 🌍 Connect With Me
