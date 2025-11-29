@@ -59,13 +59,12 @@
 ### ⚡ Codeforces Stats
 
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/akxcode/CodeForcesStatsCard/dev/card.svg?username=saurabh4362&theme=radical" width="400"/>
-
+  <img src="https://raw.githubusercontent.com/akxcode/CodeForcesStatsCard/dev/card.svg?username=saurabh4362&theme=radical" width="400"/>
 </div>
 
-✔ Automatically pulls rating, max rating, problems solved  
-✔ Shows contest progress visually
+🔗 Profile: https://codeforces.com/profile/saurabh4362  
+✔ Shows rating + max rating + contests + graph  
+✔ Auto-updates forever
 
 ---
 
