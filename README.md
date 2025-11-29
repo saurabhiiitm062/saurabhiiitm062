@@ -64,8 +64,11 @@
 ### 📊 Codeforces Rating Progress (Optional Add-on)
 
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/contest-history?username=saurabh4362&theme=tokyonight" width="500"/>
+  <a href="https://codeforces.com/profile/saurabh4362">
+    <img src="https://cf.leed.at/?handle=saurabh4362&theme=tokyonight" width="430"/>
+  </a>
 </div>
+
 
 🔗 Profile → https://codeforces.com/profile/saurabh4362  
 ---
