@@ -105,17 +105,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|--------|-------|-----------|
-| **PookieInterns** | MERN + SSR | Used by 1000+ students, role-based dashboards |
-| **NextMeet** | WebRTC + Socket.io | Real-time multi-user video conferencing |
-| **IPO App** | MERN + MongoDB | Led 10+ developers as Team Lead |
-
-👉 More live inside **Pinned Repositories**
-
----
 
 ## 🌍 Connect With Me
 
