@@ -43,35 +43,32 @@
 ---
 
 
-## 🧠 Coding & Competitive Programming Stats
+---
 
-### 💡 LeetCode Stats
+## 🧠 Coding Stats
 
+### 💡 LeetCode
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/saurabh4362?ext=heatmap&theme=radical" width="400" />
 </div>
 
 ---
 
-### ⚡ Codeforces Stats (Full Profile Like LeetCode)
-
+### ⚡ Codeforces
 <div align="center">
-  <img src="https://cfstats-mf42.onrender.com/card?username=saurabh4362&theme=tokyonight&border=true&rounded=true" width="430" />
+  <img src="https://cf.leed.at/?handle=saurabh4362&theme=tokyonight" width="430"/>
 </div>
 
 ---
 
-### 📊 Codeforces Rating Progress (Optional Add-on)
-
+### 📊 Codeforces Rating Progress
 <div align="center">
-  <a href="https://codeforces.com/profile/saurabh4362">
-    <img src="https://cf.leed.at/?handle=saurabh4362&theme=tokyonight" width="430"/>
-  </a>
+  <img src="https://cf.leed.at/graph?handle=saurabh4362&theme=tokyonight" width="500"/>
 </div>
-
 
 🔗 Profile → https://codeforces.com/profile/saurabh4362  
 ---
+
 
 
 
