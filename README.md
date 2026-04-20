@@ -72,7 +72,7 @@
 
 ### 📫 Let's Connect
 
-💼 [LinkedIn](https://linkedin.com/in/your-profile) • 🧠 [LeetCode](https://leetcode.com/your-username) • 📧 deepsaurabh4362@gmail.com • 🌐 [GitHub](https://github.com/your-username)
+💼 [LinkedIn](https://www.linkedin.com/in/saurabh6243/) 
 
 ---
 
