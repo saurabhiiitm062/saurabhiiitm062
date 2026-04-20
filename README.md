@@ -31,7 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
 <!-- <p align="center">
@@ -39,21 +38,13 @@
 </p>
 
 <!-- Top Languages Card -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhiiitm062&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p> -->
 
 
 
-### 🏆 Competitive Programming
 
-- **Codeforces Expert** – Max Rating **1644+**  
-- Top 3% in **Educational CF Round 184** (552/19791)  
-- Top 5% in **CF Round 1064** (872/19800)  
-- **LeetCode** – 1554 rating  
-- **700+** problems solved across CF, LC, CodeChef, GFG
-
----
 
 ### 📫 Let's Connect
 
