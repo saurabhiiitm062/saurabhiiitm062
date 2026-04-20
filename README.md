@@ -44,21 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhiiitm062&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
 </p>
 
-### 📌 Featured Projects
 
-- **ZoneNotify** – Real‑time geofencing + browser push notifications  
-  `Next.js 15` `PostgreSQL` `Prisma` `Web Push API` `Service Workers`
-
-- **CloudSpend** – AI cloud cost optimizer (AWS/Azure) with RAG assistant  
-  `MERN` `LangChain` `Chroma DB` `Docker` `AWS`
-
-- **PookieInterns.com** – Internship portal used by 1000+ students  
-  `MERN` `Redux Toolkit` `JWT` `SSR` `Cloudinary`
-
-- **AdenHQ (OSS)** – B2B prospecting agent, DNS management tool, MCP‑based Cloudflare integration  
-  `Agentic AI` `Apollo API` `Playwright` `Cloudflare APIs`
-
----
 
 ### 🏆 Competitive Programming
 
