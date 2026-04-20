@@ -34,14 +34,14 @@
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats Card -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saurabhiiitm062&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
 </p>
 
 <!-- Top Languages Card -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhiiitm062&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</p>
+</p> -->
 
 
 
