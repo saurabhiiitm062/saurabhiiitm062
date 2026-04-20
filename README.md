@@ -6,6 +6,17 @@
 
 ---
 
+### 🚀 Professional Experience
+
+**Open Source Contributor | AdenHQ/Hive** *(Jan 2026 – Present)*
+* **Agentic AI:** Contributed a B2B Prospecting Agent template using a 6-node graph-based workflow with HITL logic.
+* **Infrastructure:** Built a Cloudflare DNS & Zone management tool (50+ APIs) covering CRUD, security (WAF), and diagnostics.
+* **Agentic Tools:** Integrated Apollo API and Playwright for deep firmographic research and lead enrichment.
+
+**Software Development Intern | Bluestock Fintech** *(May 2025 – Jun 2025)*
+* **Full-Stack:** Developed a production-ready IPO Web App using the MERN stack with dedicated Client/Admin dashboards.
+* **API Design:** Engineered secure REST APIs with Node.js and MongoDB, reducing error rates by 30% through indexing and testing.
+
 ### 🔧 Tech Toolbox
 
 **Languages**  
@@ -32,15 +43,6 @@
 ---
 
 
-<!-- GitHub Stats Card -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhiiitm062&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-</p>
-
-<!-- Top Languages Card -->
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhiiitm062&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="45%" />
-</p> -->
 
 
 
