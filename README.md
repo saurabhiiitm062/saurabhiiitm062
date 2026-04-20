@@ -9,25 +9,26 @@
 ### 🔧 Tech Toolbox
 
 **Languages**  
-`C++` `Python` `JavaScript/TypeScript` `SQL`
+![Languages](https://skillicons.dev/icons?i=cpp,python,js,ts,sqlite&theme=dark)
 
 **Frontend**  
-`React.js` `Next.js 15` `Tailwind` `Bootstrap`
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark)
 
 **Backend**  
-`Node.js` `Express` `Prisma` `Next.js API Routes` `REST`
+![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark)
 
 **Databases**  
-`MongoDB` `PostgreSQL` `MySQL` `Firebase`
+![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark)
 
 **Cloud & DevOps**  
-`AWS (EC2/S3/Lambda)` `GCP` `Docker` `Vercel` `Render` `GitHub Actions`
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,githubactions&theme=dark)
 
 **GenAI & Agents**  
-`LangChain` `RAG` `Vector DBs` `Agentic Workflows` `Multi‑Agent Orchestration` `HITL`
+*(Icons not available for all – using text badges)*  
+![GenAI](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge) ![VectorDB](https://img.shields.io/badge/Vector_DB-4ECDC4?style=for-the-badge)
 
 **Tools**  
-`Git` `Postman` `Notion` `VS Code` `Service Workers` `Web Push API`
+![Tools](https://skillicons.dev/icons?i=git,postman,vscode&theme=dark)
 
 ---
 
@@ -62,7 +63,7 @@
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
 - 🧠 [LeetCode](https://leetcode.com/your-username)  
 - 📧 deepsaurabh4362@gmail.com  
-- 🌐 [Portfolio / GitHub](https://github.com/your-username)
+- 🌐 [GitHub](https://github.com/your-username)
 
 ---
 
