@@ -24,7 +24,6 @@
 ![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,vercel,githubactions&theme=dark)
 
 **GenAI & Agents**  
-*(Icons not available for all – using text badges)*  
 ![GenAI](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge) ![VectorDB](https://img.shields.io/badge/Vector_DB-4ECDC4?style=for-the-badge)
 
 **Tools**  
@@ -60,10 +59,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🧠 [LeetCode](https://leetcode.com/your-username)  
-- 📧 deepsaurabh4362@gmail.com  
-- 🌐 [GitHub](https://github.com/your-username)
+💼 [LinkedIn](https://linkedin.com/in/your-profile) • 🧠 [LeetCode](https://leetcode.com/your-username) • 📧 deepsaurabh4362@gmail.com • 🌐 [GitHub](https://github.com/your-username)
 
 ---
 
